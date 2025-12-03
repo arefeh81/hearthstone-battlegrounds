@@ -4,12 +4,12 @@ team name:** zam (zamzam)
 branch name:** team/zam
 ## Basic Info
 
-- Team name:
+- Team name:zamzam(zam)
 - Branch name: `team/<team-name>`
 - Members:
   - Arefeh ghanaiyan — 610300091
   - zahra ahmadi — 610101087
-  - mahya — Student ID
+  - mahya rekabi sherbaf— 610304015
 
 ## Notes (Optional)
 
